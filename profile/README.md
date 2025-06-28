@@ -44,8 +44,8 @@ Mit über 6 Jahren Erfahrung in der Softwareentwicklung baue ich skalierbare, pe
 ## 🏢 UXNetwork
 
 Ich bin Mitgründer und Entwickler bei **[UXNetwork](https://github.com/UXNetwork-eu)**.  
-UXNetwork entwickelt digitale Lösungen für Organisationen, mit Fokus auf moderne Webtechnologien, effiziente Workflows und nutzerzentrierte Schnittstellen[1].  
-Hier entstehen innovative Systeme zur Organisations-, Identitäts- und Kontaktverwaltung, die auf skalierbaren Architekturen und agilen Methoden basieren[4][3][6].
+UXNetwork entwickelt digitale Lösungen für Organisationen, mit Fokus auf moderne Webtechnologien, effiziente Workflows und nutzerzentrierte Schnittstellen.  
+Hier entstehen innovative Systeme zur Organisations-, Identitäts- und Kontaktverwaltung, die auf skalierbaren Architekturen und agilen Methoden basieren.
 
 ---
 
