@@ -56,7 +56,7 @@ Schreib mir gerne eine E-Mail auf alexander.koch@uxnetwork.eu
 
 ---
 
-> _"Ich mach ihm ein Angebot, das er nicht ablehnen kann."_
+> _"Keep it as simple as possible, but as flexible as necessary."_
 
 ---
 
